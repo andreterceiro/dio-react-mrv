@@ -56,3 +56,7 @@ Teacher commented about ChakraUI and Tailwindcss and commented that all this lib
 ![ChakraUI and React integration](images/chakraui-and-react-integration.png)
 
 Teacher indicated [this course](https://www.origamid.com/curso/css-flexbox/) about Flexbox.
+
+See how the teacher used the extension **.jsx** to Javascript files with JSX content:
+
+![using JSX extension](images/using-jsx-extension.png)

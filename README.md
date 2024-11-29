@@ -19,3 +19,12 @@ Ads we installed **@babel/cli**, we can use the following command to convert our
 ```
 <application-root>/node_modules/bin/babel <input> <output>
 ```
+
+
+# Generating bundle.js
+
+We generated the file **bundle.js** with the following command:
+
+```
+yarn babel src/index.jsx --out-file dist/bundle.js
+```

@@ -44,3 +44,9 @@ Teacher commented about:
 - CSS property align-items, that teacher commented that can align items vertically (y aixis);
 - CSS property justify-content (with the value 'center' - justify-content:center), that teacher commented that allows align items in the center of the screen in the X aixis;
 - flex-direction (column is an example of value - flex-direction: column) - changes the direction to be used from horizontal to verfical as example;
+
+Another comment of the teacher was about the folder structure to use, see:
+
+![folder structure](images/folder-structure.png)
+
+The function of each folder is a little obvious based on its name. In relation to the folder 'services', this folder is related to services, as example external calls of the application.

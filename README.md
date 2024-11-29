@@ -65,4 +65,6 @@ Teacher showed the next exampĺe about using "useState" and a click handler:
 
 ![use state](images/use-state.png)
 
-As you can see in the image, "contador" is how we get the value of the counter and "updateContator" is how we set the value of the counter"
+As you can see in the image, "contador" is how we get the value of the counter and "updateContator" is how we set the value of the counter".
+
+Teacher instructed us ti use [the official documentation of React](https://react.dev/learn) to learn more about. Blackbox IA also passed [this official link](https://reactjs.org/docs/getting-started.html).

@@ -41,7 +41,6 @@ Teacher commented about:
 
 - Chakra UI (in respect to already builded components)
 - Material design (in respect to already builded components);
-- CSS property align-items, that teacher commented that can align items vertically.
-
-(1:16)
-[video](https://www.youtube.com/watch?v=kXq5IV0Ji14)
+- CSS property align-items, that teacher commented that can align items vertically (y aixis);
+- CSS property justify-content (with the value 'center' - justify-content:center), that teacher commented that allows align items in the center of the screen in the X aixis;
+- flex-direction (column is an example of value - flex-direction: column) - changes the direction to be used from horizontal to verfical as example;

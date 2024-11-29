@@ -60,3 +60,9 @@ Teacher indicated [this course](https://www.origamid.com/curso/css-flexbox/) abo
 See how the teacher used the extension **.jsx** to Javascript files with JSX content:
 
 ![using JSX extension](images/using-jsx-extension.png)
+
+Teacher showed the next exampĺe about using "useState" and a click handler:
+
+![use state](images/use-state.png)
+
+As you can see in the image, "contador" is how we get the value of the counter and "updateContator" is how we set the value of the counter"

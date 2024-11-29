@@ -50,3 +50,5 @@ Another comment of the teacher was about the folder structure to use, see:
 ![folder structure](images/folder-structure.png)
 
 The function of each folder is a little obvious based on its name. In relation to the folder 'services', this folder is related to services, as example external calls of the application.
+
+Teacher commented about ChakraUI and Tailwindcss and commented that all this libraries has a lot of components already builded, and that we can use them in our application. In Tailwindcss website he showed that they have some documentations related specifically to React. He commented that he is using ChrakraUI.

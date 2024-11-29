@@ -54,3 +54,5 @@ The function of each folder is a little obvious based on its name. In relation t
 Teacher commented about ChakraUI and Tailwindcss and commented that all this libraries has a lot of components already builded, and that we can use them in our application. In Tailwindcss website he showed that they have some documentations related specifically to React. He commented that he is using ChrakraUI. He saw in the documentation how to integrate with a React App.
 
 ![ChakraUI and React integration](images/chakraui-and-react-integration.png)
+
+Teacher indicated [this course](https://www.origamid.com/curso/css-flexbox/) about Flexbox.
